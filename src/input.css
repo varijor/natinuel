@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+    font-family: "poppins";
+    src: url("../dist/fonts/poppins-font.rtf");
+}
+@font-face {
+    font-family: "playfair";
+    src: url("../dist/fonts/playfair-font.rtf");
+}
